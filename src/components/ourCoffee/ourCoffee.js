@@ -26,7 +26,7 @@ const OurCoffee = () => {
 			<HeaderNav>
 				<span>
 					<img alt='Logo' src={logo} />
-					<Link to='/'>Coffee house</Link>
+					<Link to='/Coffee/'>Coffee house</Link>
 				</span>
 				<span>Our coffee</span>
 				<span>For your pleasure</span>

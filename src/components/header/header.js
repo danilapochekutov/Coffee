@@ -105,10 +105,10 @@ const Main = () => {
 			<HeaderNav>
 				<span>
 					<img alt='Logo' src={logo} />
-					<Link to='/'>Coffee house</Link>
+					<Link to='/Coffee/'>Coffee house</Link>
 				</span>
 				<span>
-					<Link to='/ourcoffee'>Our coffee</Link>
+					<Link to='/Coffee/ourcoffee'>Our coffee</Link>
 				</span>
 				<span>For your pleasure</span>
 			</HeaderNav>

@@ -1,6 +1,7 @@
 {
-  "name": "coffee",
+  "name": "Coffee",
   "version": "0.1.0",
+  "homepage": "https://danilapochekutov.github.io/Coffee",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

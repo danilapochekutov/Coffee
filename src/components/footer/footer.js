@@ -36,12 +36,12 @@ const Footer = () => {
 			<FooterNav>
 				<span>
 					<img alt='Logo' src={logo} />
-					<Link to='/'>Coffee house</Link>
+					<Link to='/Coffee/'>Coffee house</Link>
 				</span>
 
 				{showLink ? (
 					<span>
-						<Link to='/ourcoffee'>Our coffee</Link>
+						<Link to='/Coffee/ourcoffee'>Our coffee</Link>
 					</span>
 				) : (
 					<span>Our coffee</span>

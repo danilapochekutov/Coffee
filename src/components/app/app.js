@@ -118,7 +118,7 @@ class App extends Component {
 					<ScrollToTopOnMount />
 					<Routes>
 						<Route
-							path='/'
+							path='/Coffee/'
 							element={
 								<>
 									<Main />
@@ -131,7 +131,7 @@ class App extends Component {
 					</Routes>
 					<Routes>
 						<Route
-							path='/ourcoffee'
+							path='/Coffee/ourcoffee'
 							element={
 								<>
 									<OurCoffee />
